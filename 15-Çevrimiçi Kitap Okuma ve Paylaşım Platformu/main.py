@@ -9,28 +9,22 @@ class MainWindow(QMainWindow):
         self.ui = Ui_MainWindow()
         self.ui.setupUi(self)
 
-        # Kitap ekleme ve silme işlemleri için sinyalleri bağlayın.
         self.ui.btnKitapEkle.clicked.connect(self.add_book)
         self.ui.btnKitapSil.clicked.connect(self.delete_book)
 
-        # Kitap tablosuna çift tıklama olayı ekleyin.
         self.ui.tblBooks.cellDoubleClicked.connect(self.show_book_content)
 
-        # Kullanıcı girişi işlemi için sinyali bağlayın.
         self.ui.btnGiris.clicked.connect(self.login)
 
-        # Kullanıcı yorumlarını eklemek için sinyali bağlayın.
         self.ui.btnYorumEkle.clicked.connect(self.add_comment)
 
-        # Okuma listesi düğmelerini bağlayın.
         self.ui.btnOkumaListesi.clicked.connect(self.show_reading_list)
         self.ui.btnOkumaListesineEkle.clicked.connect(self.add_to_reading_list)
         self.ui.btnOkumaListesindenCikar.clicked.connect(self.remove_from_reading_list)
 
-        # Veri yapısı olarak kitap ve içeriklerini depolamak için sözlükler kullanın.
-        self.books = {}  # Kitap bilgilerini saklamak için bir sözlük
-        self.book_contents = {}  # Kitap içeriklerini saklamak için bir sözlük
-        self.book_comments = {}  # Kitap yorumlarını saklamak için bir sözlük
+        self.books = {}
+        self.book_contents = {}
+        self.book_comments = {}
 
         self.users = {
             "admin": {"password": "admin123", "reading_list": []},
