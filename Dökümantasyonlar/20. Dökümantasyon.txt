@@ -1,6 +1,0 @@
-1) Oyun Adı,Oyun Türü,Platform bilgileri girilerek Oyun listesine yeni oyun eklenebilir
-
-2) Kullanıcı dilerse her iki listedeki verilere çift tıklayarak detayları görüntüleyebilir
-
-3) Bir oyuncuya tıkladıktan sonra listeden oyun seçip ister önceden seçilen oyuncunun favorilerine ekleyebilir,
-Değerlendirebilir veya koleksiyona ekleyebilir
