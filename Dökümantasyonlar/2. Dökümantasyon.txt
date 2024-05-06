@@ -1,0 +1,3 @@
+1)Hasta ismini ve tc kimlik no (zorunlu 11 hane!!!) bilgilerini girer
+
+2)Hasta doktorunun ismini ve randevu almak istediği tarihi sisteme girer ve doktorun belirtilen tarihte ki müsaitlik durumu meşgul olur

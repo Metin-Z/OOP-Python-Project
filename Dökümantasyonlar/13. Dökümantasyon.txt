@@ -1,0 +1,5 @@
+1)Kullanıcı isim soyisim bilgilerini sisteme girer
+
+2)Katılmak istediği etkinliği seçer ve bilet satın al butonuna basarak almak istediği bileti alır
+
+3)Aşağdaki panelde bilet ve kullanıcı bilgileri olur ve kullanıcı isterse biletini satabilir

@@ -1,0 +1,3 @@
+1)Müşteri ismini ve iletişim bilgilerini girer
+
+2)Sonra satın almak istediği ürünü seçer ve miktarı girer (Eğer istenilen miktar stokta yoksa stoğumuzda yok yazısı çıkar)
