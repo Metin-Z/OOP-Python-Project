@@ -1,0 +1,7 @@
+1)Kullanıcı ders adı ders içeriği ve öğretmen adı bilgilerini girer
+
+2)Detayları göster butonuna basıp olan dersleri görebilirsiniz
+
+3)Bir ders seçip o dersin öğrencilerini ve konularını görebilirsiniz
+
+4)Ana pencerede ki öğrenciler butonundan öğrencileri görebilirsiniz

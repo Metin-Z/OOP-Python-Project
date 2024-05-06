@@ -1,0 +1,3 @@
+1)Kullanıcı sipariş bilgilerini sisteme girer
+
+2)Secilen ürünün satın alınmak istenen adedi kadar ürün stoktan düşer
