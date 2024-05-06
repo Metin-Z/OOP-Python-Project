@@ -1,3 +1,0 @@
-1)Kullanıcı sisteme ismini girer
-
-2)Kütüphanemizde mevcut olan kitaplardan okumak istediğini seçer ve kullanıcının sectiği kitap kütüphanemizin stoğunda iade edilene kadar gözükmez
