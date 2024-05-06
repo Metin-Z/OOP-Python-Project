@@ -1,1 +1,0 @@
-1)Kullanıcı almak istediği enstürmanın bilgilerini girer ve satın alma işelmini tamamlar

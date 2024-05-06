@@ -1,3 +1,0 @@
-1)İstenilen bilgiler girilir olaylar panelinde ki listeden girilen olaylar görülebilir
-
-2)Bilgiler seçip sililenbilir

@@ -1,3 +1,0 @@
-1)Kullanıcı katılmak istediği etkinliği seçer
-
-2)kullanıcı sisteme ismini girer ve katılmak istediği etkinlikten yerini ayırtır

@@ -1,3 +1,0 @@
-1)Kullanıcı bilgilerini girer
-
-2)İstediği kursu seçip kursa kaydını yapar
